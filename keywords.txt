@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For QZQSM
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DCXMessage	KEYWORD1
+DCXDecoder	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+decode	KEYWORD2
+printAll	KEYWORD2
+printSummary	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
